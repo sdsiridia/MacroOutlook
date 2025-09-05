@@ -17,4 +17,4 @@ Antes de ejecutar el script, asegúrate de tener:
     ```bash
     pip install pywin32
 
-*  Puedes usar el archivo de requerimientos que está adjunto para todas las dependencias
+*  Puedes usar el archivo de requerimientos que está adjunto para todas las dependencias.
