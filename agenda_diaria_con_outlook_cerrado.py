@@ -121,7 +121,7 @@ def send_daily_outlook_agenda():
 
         # Crea el correo electrónico y lo envía
         mail = outlook.CreateItem(0)  # 0 es el índice para un correo
-        mail.To = "buzonsugerencias@asociacionnuevavida.org"  # CAMBIA ESTO
+        mail.To = "tuemail@aqui.com"  # CAMBIA ESTO
         mail.Subject = f"Agenda Diaria: {today.strftime('%d/%m/%Y')}"
         mail.HTMLBody = cuerpo_html
 
